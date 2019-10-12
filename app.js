@@ -296,5 +296,6 @@ App({
     cache_key:'savor:dinners:',
     common_appid:'wxfdf0346934bb672f',
     box_type:0,
+    oss_access_key_id: 'LTAITjXOpRHKflOX',
   }
 })
